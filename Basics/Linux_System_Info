@@ -3,4 +3,5 @@
 -sh-4.2$ df
 -sh-4.2$ df -h --total
 #Split a string and store in array names arr,without modifying the IFS
+line="Shell scripting is cool"
 read -a arr <<<$line
