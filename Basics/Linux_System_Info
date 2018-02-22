@@ -1,1 +1,4 @@
 
+#Get Disk Storage Size Info
+-sh-4.2$ df
+-sh-4.2$ df -h --total
